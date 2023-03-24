@@ -1,8 +1,13 @@
 {
   "nav": [
     {
-      "name": "Documentation",
-      "permalink": "https://github.com/clean-commit/gatsby-starter-henlo"
+      "name": "home",
+      "permalink": "https://henlo-v1.netlify.app/",
+      "children": []
+    },
+    {
+      "name": "blog",
+      "permalink": "https://henlo-v1.netlify.app/blog/"
     }
   ]
 }
