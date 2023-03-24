@@ -72,7 +72,7 @@ blocks:
           content: Get it now
           url: https://github.com/clean-commit/gatsby-starter-henlo
   - type: content_image
-    variant: reversed
+    variant: default
     title: Configuration exposed through Netlify CMS
     content: >-
       No need to change configuration using `gatsby-node.js` or `.env` files!
@@ -82,6 +82,17 @@ blocks:
     photo:
       image: /img/frame-72.png
       alt: Netlify CMS configuration with Henlo
+    buttons:
+      - button:
+          variant: outlined
+          content: link
+  - type: content
+    content: |-
+      t﻿ekst
+
+      ![](/img/wojciech-kaluzny-20-312x312.jpg)
+  - type: recentArticles
+    title: prethodni artikli
 seo:
   ogimage: /img/henlo-cover.png
 ---
